@@ -40,9 +40,6 @@ namespace Calculadora
                 double resultado = num1 / num2;
                 Console.WriteLine("O valor da operação é de:" + resultado);
             }
-            else 
-            {
-            }
         }
     }
 }
